@@ -4,4 +4,11 @@
  * Date: 17/01/2021
  */
 
-echo "Hello world";
+
+$app = new Application();
+
+$app->router->get('/', function() {
+    return 'Hello world';
+});
+
+$app->run();
