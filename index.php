@@ -4,6 +4,9 @@
  * Date: 17/01/2021
  */
 
+use app\core\Application;
+
+require_once __DIR__.'/vendor/autoload.php';
 
 $app = new Application();
 

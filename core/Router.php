@@ -3,11 +3,13 @@
  * User: Morshinin
  */
 
+namespace app\core;
+
 /**
  * Class Router
  *
  * @author Mikhail Morshinin <inbox@morshinin.ru>
- * @package
+ * @package app\core
  */
 class Router
 {

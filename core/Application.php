@@ -3,11 +3,13 @@
  * User: Morshinin
  */
 
+namespace app\core;
+
 /**
  * Class Application
  *
  * @author Mikhail Morshinin <inbox@morshinin.ru>
- * @package ${NAMESPACE}
+ * @package app\core
  */
 
 class Application
