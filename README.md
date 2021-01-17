@@ -10,5 +10,6 @@ This project was made only for learning purposes. **Do not use it in production!
 ## How to use
 
 1. Clone repository
-2. Inside terminal run a command "php -S localhost:8080"
-3. Open localhost:8080 in your browser
+2. Change into project directory
+3. Inside terminal run a command "php -S localhost:8080"
+4. Open localhost:8080 in your browser
