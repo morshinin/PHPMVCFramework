@@ -21,6 +21,7 @@ class Router
     /**
      * Router constructor.
      * @param Request $request
+     * @param Response $response
      */
     public function __construct(Request $request, Response $response)
     {
@@ -40,7 +41,7 @@ class Router
         $method = $this->request->getMethod();
         $callback = $this->routes[$method][$path] ?? false;
         if ($callback === false) {
-            Application::$app->response->setStatusCode(404);
+            $this->response->setStatusCode(404);
             return "Not found";
         }
         if (is_string($callback)) {
