@@ -1,0 +1,10 @@
+{
+    "name": "mikhailmorshinin/phpmvc-framework",
+    "authors": [
+        {
+            "name": "m.morshinin",
+            "email": "m.morshinin@b2b-center.ru"
+        }
+    ],
+    "require": {}
+}
