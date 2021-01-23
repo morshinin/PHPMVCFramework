@@ -2,10 +2,10 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="753487a2-c99d-4d9d-8cc1-f0779e8b01ce" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/PHPMVCFramework.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/PHPMVCFramework.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/php.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/php.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/core/Router.php" beforeDir="false" afterPath="$PROJECT_DIR$/core/Router.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/index.php" beforeDir="false" afterPath="$PROJECT_DIR$/public/index.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/views/home.php" beforeDir="false" afterPath="$PROJECT_DIR$/views/home.php" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -13,6 +13,7 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="ComposerSettings">
+    <pharConfigPath>$PROJECT_DIR$/composer.json</pharConfigPath>
     <execution />
   </component>
   <component name="FileTemplateManagerImpl">
@@ -24,6 +25,11 @@
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="PhpWorkspaceProjectConfiguration">
+    <include_path>
+      <path value="$PROJECT_DIR$/vendor/composer" />
+    </include_path>
   </component>
   <component name="ProjectId" id="1nBFOsV89P2rkZIiMVo2cA24sSS" />
   <component name="ProjectLevelVcsManager">
@@ -55,6 +61,7 @@
       <option name="presentableId" value="Default" />
       <updated>1610855547634</updated>
       <workItem from="1610855548797" duration="16692000" />
+      <workItem from="1611388805311" duration="1405000" />
     </task>
     <servers />
   </component>
@@ -78,10 +85,10 @@
       <screen x="0" y="0" width="1280" height="800" />
     </state>
     <state x="0" y="39" key="SettingsEditor/0.0.1280.800@0.0.1280.800" timestamp="1610860044346" />
-    <state width="500" height="445" key="SwitcherDM" timestamp="1610924153414">
+    <state width="500" height="445" key="SwitcherDM" timestamp="1611390112978">
       <screen x="0" y="0" width="1280" height="800" />
     </state>
-    <state width="500" height="445" key="SwitcherDM/0.0.1280.800@0.0.1280.800" timestamp="1610924153414" />
+    <state width="500" height="445" key="SwitcherDM/0.0.1280.800@0.0.1280.800" timestamp="1611390112978" />
     <state x="17" y="212" key="save.file.as.template.dialog" timestamp="1610856595544">
       <screen x="0" y="0" width="1280" height="800" />
     </state>
